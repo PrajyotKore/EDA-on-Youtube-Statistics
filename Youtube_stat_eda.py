@@ -139,7 +139,7 @@ average.corr()
 
 # # Notes
 
-# Here, we see that  the average sentiments of ten most liked comments of a    video  tells us very little about popularity /success of said video
+# Here, we see that  the average sentiments of ten most liked comments of a video has correlation of O.7461 tells us much about popularity /success of said video
 # 
 
 # # Next Steps
